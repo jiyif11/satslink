@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 软银科技
+title: 芯网科技
 ---
 
 # {{ page.title }}

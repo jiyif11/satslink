@@ -1,9 +1,9 @@
 ---
 project:
-  name: 软银科技
-  owner: runningit
+  name: 芯网科技
+  owner: satslink
   tel: 19951785199
-  repo: https://www.runningit.cn
+  repo: https://www.satslink.cn
 collections:
   Products:
     output: true
