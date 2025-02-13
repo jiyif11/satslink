@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 64C+256G软银单板计算机
+title: 64C+256G芯网单板计算机
 description: 芯网单板计算机 规格简介
 
 order: 10
