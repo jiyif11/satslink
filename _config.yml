@@ -5,6 +5,7 @@ project:
   tel: 19951785199
   repo: https://www.satslink.cn
 collections:
+  Products:
     output: true
     permalink: "/:collection/:path/"
     title: 智能产品
