@@ -7,7 +7,7 @@ order: 4
 ---
 # {{ page.title }}
 
-> AI 服务器是芯网科技研发的基于国产自主可控高性能  ARM  领域定制异构处理器(Domain Specific Heterogeneous Processsor)开发的企业级机架服务器，采用了全可靠的软硬件系统，单节点计算性能达到了业内领先水平，具有内核多，运行频率高，内存及 IO 通道带宽高等特点，是面向企业级应用及数据中心的高性能服务器产品。AI 服务器作为高性能、安全可靠的计算及存储平台，可针对云计算、大数据分析、软件定义数据中心提供出色的总体拥有成本（TCO），轻松应对低延迟、数据密集型工作负载。![layouts](Picture.png "AI 服务器"){:.ui.image}
+> AI 服务器是软银科技研发的基于国产自主可控高性能  ARM  领域定制异构处理器(Domain Specific Heterogeneous Processsor)开发的企业级机架服务器，采用了全可靠的软硬件系统，单节点计算性能达到了业内领先水平，具有内核多，运行频率高，内存及 IO 通道带宽高等特点，是面向企业级应用及数据中心的高性能服务器产品。AI 服务器作为高性能、安全可靠的计算及存储平台，可针对云计算、大数据分析、软件定义数据中心提供出色的总体拥有成本（TCO），轻松应对低延迟、数据密集型工作负载。![layouts](Picture.png "AI 服务器"){:.ui.image}
 {:.ui.info.message}
 
 1. 高性能，高密度
@@ -32,10 +32,10 @@ order: 4
 ## 技术规格
 
 | <span>{% include icon.liquid id='cpu' %} <b>主机特性</b></span> |   |
-|----------|----------|
+|----------|---------|
 | 形态      | U2    |
 | 适配机柜     | 19  英 寸 ≧1000mm  深 机     |
-| 处理器      | 支持 1~2 颗芯网系列高性能 ARM v9.0 N2 内核处理器，每颗最大支持 128 个内核，可作为领域定制异构处理器（Domain Specific Heterogeneous Processsor）    |
+| 处理器      | 支持 1~2 颗软银系列高性能 ARM v9.0 N2 内核处理器，每颗最大支持 128 个内核，可作为领域定制异构处理器（Domain Specific Heterogeneous Processsor）    |
 | 内存插槽      | 32 个 DDR5 RDIMM ECC 内存插槽，最大内存容量可达 `8TB` 最高运行速率 `5200MT/s`    |
 | 硬盘控制器     | 支持标准和自研存储  HBA、Raid  卡，支持  SAS4.0/SAS3.0/SATA3.0/PCIe5.0/ PCIe4.0    |
 | 硬盘      | 提供多种前置存储盘位配置，支持热插拔，支持  HDD、SSD：<br>8x2.5”盘位，支持 SAS/SATA/U.2<br>16x2.5”盘位，支持 SAS/SATA/U.2<br>24x2.5”盘位，支持 SAS/SATA/U.2<br>25x2.5”盘位，支持 SAS/SATA，其中 8 个支持 U.2<br>12x3.5”盘位，支持 SAS/SATA/U.2<br>提供多种后置灵活存储模块配置，支持热插拔，支持  HDD、SSD：<br>2x2.5”盘位模块，支持 SAS/SATA/U.2，最大可配置 4  个硬盘    |
